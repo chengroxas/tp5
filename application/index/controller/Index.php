@@ -1,5 +1,5 @@
 <?php
-namespace  app\api\controller;
+namespace  app\index\controller;
 /**
  * Created by PhpStorm.
  * User: weichengzhong
