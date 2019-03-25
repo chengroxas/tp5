@@ -10,6 +10,6 @@ class Index
 {
     public function index()
     {
-        echo 'hello world';
+        echo 'hello dadi01';
     }
 }
